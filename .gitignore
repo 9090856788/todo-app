@@ -12,7 +12,7 @@ dist
 .parcel-cache
 dist-ssr
 *.local
-
+build
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

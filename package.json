@@ -1,5 +1,5 @@
 {
-  "homepage": "https://9090856788.github.io/todo_app",
+  "homepage": "https://9090856788.github.io/todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,6 @@
     "@testing-library/react": "^12.1.3",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.2.6",
-    "gh-pages": "^6.1.1",
     "nanoid": "^3.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -43,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
